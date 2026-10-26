@@ -1,0 +1,13 @@
+{
+  "name": "mind-by-thorly",
+  "displayName": "Mind",
+  "version": "1.0.0",
+  "description": "Tus notas de Mind en Claude: busca, lee y crea páginas de tu espacio de trabajo, todo en tu PC.",
+  "author": {
+    "name": "Thorly",
+    "url": "https://thorly.dev"
+  },
+  "homepage": "https://thorly.dev/mind",
+  "license": "MIT",
+  "keywords": ["notes", "notas", "knowledge-base", "documentation", "windows"]
+}

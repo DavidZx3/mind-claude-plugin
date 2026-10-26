@@ -1,0 +1,15 @@
+{
+  "name": "thorly",
+  "description": "Plugins de Thorly para Claude.",
+  "owner": {
+    "name": "Thorly",
+    "url": "https://thorly.dev"
+  },
+  "plugins": [
+    {
+      "name": "mind-by-thorly",
+      "source": "./",
+      "description": "Tus notas de Mind en Claude: busca, lee y crea páginas de tu espacio de trabajo, todo en tu PC."
+    }
+  ]
+}
